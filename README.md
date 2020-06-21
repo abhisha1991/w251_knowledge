@@ -14,3 +14,4 @@ The goal of this repository is to develop a community knowledge base to collect 
 ### Theory and Articles
 
 1. https://github.com/abhisha1991/DeepLearningNotes
+2. [Object Detection - Yolo 4 and Yolo 5 by Michelle Sun](https://docs.google.com/presentation/d/1IxwwGpDFQEfoXYQtBezeavBAeqoPWyAvPrFoIwPvKEc/edit#slide=id.p)
