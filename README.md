@@ -1,4 +1,4 @@
-# Welcome to the w251 Student Driven Knowlegde Base!
+# Welcome to the w251 Student Driven knowledge Base!
 
 The goal of this repository is to develop a community knowledge base to collect findings from all students that will help to:
 
