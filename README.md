@@ -9,6 +9,7 @@ The goal of this repository is to develop a community knowledge base to collect 
 ### Docker
 
 1. https://github.com/wsargent/docker-cheat-sheet
+2. https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
 
 ### Theory and Articles
 
